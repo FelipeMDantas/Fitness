@@ -2,7 +2,7 @@
 
 ## A web app that helps its users to find information about hundreds of physical exercises.
 
-![Felipe|Portfolio](https://img.shields.io/badge/FelipeMDantas-Portfolio-yellow)
+![Felipe|Fitness](https://img.shields.io/badge/FelipeMDantas-Fitness-yellow)
 
 <p>
 
@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-> This project consumes a couple of APIs through RapidAPI platform and returns a good deal of data - images, videos and text - regarding workouts.
+> This project consumes a couple of APIs through RapidAPI platform and returns a good deal of data - images, videos and texts - regarding workouts.
 
 ### Take a look at the page
 
